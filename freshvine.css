@@ -1,0 +1,25 @@
+#head{
+background-image: url("ABSTRACT.jpg");
+width: 100%;
+height: 150px;
+align-content: center;
+}
+h1{
+color: lawngreen;
+text-align: center;
+font-size: 1.5em;
+}
+h2{
+margin: 5px;
+background-color: skyblue;
+text-align: center;
+}
+h3{
+background-color: skyblue;
+text-align: center;
+
+
+
+}
+
+
